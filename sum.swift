@@ -1,3 +1,3 @@
-func sum(int a, int b) {
+func sum(int a, int b) -> Int {
     a + b
 }
